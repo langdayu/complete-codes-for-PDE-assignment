@@ -1,0 +1,3 @@
+function u=u(x)
+  u = exp(-x
+end
