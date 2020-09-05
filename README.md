@@ -1,4 +1,4 @@
-# complete-codes-for-PDE-assignment
+# Complete-codes-for-PDE-assignment
 I'm Langdayu, my number is 21901029!
 
 There are all the complete matlab codes for my assignment of PDE course.
